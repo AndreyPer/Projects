@@ -1,0 +1,3 @@
+/Users/aper/CLionProjects/C++/Deque/cmake-build-debug/CMakeFiles/Deque.dir
+/Users/aper/CLionProjects/C++/Deque/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aper/CLionProjects/C++/Deque/cmake-build-debug/CMakeFiles/rebuild_cache.dir
