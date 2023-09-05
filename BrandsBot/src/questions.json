@@ -1,0 +1,83 @@
+{
+    "Porsche": [
+        {
+            "question": "In what year was 'Porsche' founded?",
+            "correct_answer": "In 1931",
+            "options": ["In 1931", "In 1895", "In 1952"]
+        },
+        {
+            "question": "What is the symbol of the black and red stripes and deer antlers on the company logo?",
+            "correct_answer": "Symbols of the German land of Baden-Württemberg",
+            "options": ["Symbols of the German land of Baden-Württemberg", "Symbols of high power", "Symbols of the city of Stuttgart"]
+        },
+        {
+            "question": "What is Porsche Motorsport?",
+            "correct_answer": "This is an auto racing team and at the same time a division of Porsche",
+            "options": ["This is an auto racing team and at the same time a division of Porsche", "This is the company's line of sports cars", "This is a model of a sports car"]
+        },
+        {
+            "question": "In the development of which military equipment did the founder of the company take part?",
+            "correct_answer": "Heavy tanks 'Tiger'",
+            "options": ["Heavy tanks 'Tiger'", "'Arado Ar 68' biplane fighter", "Armored car 'Polizei-Panzerkampfwagen ADGZ'"]
+        },
+        {
+            "question": "With the production of which company does the production of Porsche cooperate?",
+            "correct_answer": "Volkswagen",
+            "options": ["Volkswagen", "Ford", "BMW"]
+        }
+    ],
+    "LV": [
+        {
+            "question": "What does Louis Vuitton do at the end of each year?",
+            "correct_answer": "Burns goods that could not be sold",
+            "options": ["Burns goods that could not be sold", "Arranges a big sale", "Delivers goods for processing"]
+        },
+        {
+            "question": "In what year was louis Vuitton founded?",
+            "correct_answer": "In 1854",
+            "options": ["In 1854", "In 1858", "In 1821"]
+        },
+        {
+            "question": "What unites Gorbachev and Louis Vuitton?",
+            "correct_answer": "He starred in an advertisement for this brand",
+            "options": ["He starred in an advertisement for this brand", "He was familiar with Louis Vuitton", "He was a brand ambassador"]
+        },
+        {
+            "question": "The most expensive thing Louis Vuitton is?",
+            "correct_answer": "Steiff Teddy Bear",
+            "options": ["Steiff Teddy Bear", "Monogram Admiral Jacket", "Bulletproof vest"]
+        },
+        {
+            "question": "What does the abbreviation LVMH mean?",
+            "correct_answer": "Louis Vuitton Moët Hennessy",
+            "options": ["Louis Vuitton Moët Hennessy", "Louis Vuitton Mag Harris", "Louis Vuitton Magnus Hassion"]
+        }
+    ],
+    "Apple": [
+        {
+            "question": "The company's headquarters is located in?",
+            "correct_answer": "Cupertino",
+            "options": ["Cupertino", "San Jose", "San Francisco"]
+        },
+        {
+            "question": "When Apple released its first computer called Apple I?",
+            "correct_answer": "In 1976",
+            "options": ["In 1976", "In 1969", "In 1980"]
+        },
+        {
+            "question": "In 1985, Steve Jobs left the company. When did he get back there?",
+            "correct_answer": "In 1997",
+            "options": ["In 1997", "In 1990", "In 2007"]
+        },
+        {
+            "question": "When was the first iPhone released?",
+            "correct_answer": "In 2007",
+            "options": ["In 2007", "In 2008", "In 2009"]
+        },
+        {
+            "question": "Which brand of turtleneck was Steve Jobs wearing during his last performance in 2011??",
+            "correct_answer": "Vonrosen",
+            "options": ["Vonrosen", "Zara", "Issey Miyake"]
+        }
+    ]
+}
