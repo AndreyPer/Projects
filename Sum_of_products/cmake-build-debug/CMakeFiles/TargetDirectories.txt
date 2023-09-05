@@ -1,0 +1,3 @@
+/Users/aper/CLionProjects/C++/Sum_of_products/cmake-build-debug/CMakeFiles/Sum_of_products.dir
+/Users/aper/CLionProjects/C++/Sum_of_products/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aper/CLionProjects/C++/Sum_of_products/cmake-build-debug/CMakeFiles/rebuild_cache.dir
